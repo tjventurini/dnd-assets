@@ -19,3 +19,4 @@ In this repo you will find maps tokens and other assets we use for our DnD campa
 - add rooms below and above the chambers on each side
 - create a sideways view with the three levels of the ship visible
 - create a map for the bigger ship
+- add color-codes
